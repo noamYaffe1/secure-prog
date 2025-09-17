@@ -1,2 +1,4 @@
 # SSRF
 https://portswigger.net/web-security/ssrf/lab-basic-ssrf-against-localhost
+
+https://portswigger.net/web-security/ssrf/lab-ssrf-with-blacklist-filter
